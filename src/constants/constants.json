@@ -1,0 +1,22 @@
+{
+  "state_values": {
+    "0": "PERFECT",
+    "1": "MEDIUM",
+    "2": "BAD"
+  },
+  "features": ["Seam", "Slot", "Hole", "Splices", "Lightness", "Thickness"],
+  "variables": ["X", "Y", "Z", "Diameter"],
+  "cards_height": {
+    "0": "84vh",
+    "1": "35vh",
+    "2": "35vh",
+    "3": "35vh",
+    "4": "35vh",
+    "5": "84vh"
+  },
+  "color_states": {
+    "0": "green",
+    "1": "orange",
+    "2": "red"
+  }
+}
